@@ -1,3 +1,3 @@
 # hellocucumber
 
-using BDD aproach and test framework Cucumber
+Implemented some examples and test scenarios using Gherkin and Cucumber.
